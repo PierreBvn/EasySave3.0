@@ -143,3 +143,4 @@ C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\n
 C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave.D74CF5FA.Up2Date
 C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.genruntimeconfig.cache
 C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\ref\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.sourcelink.json

@@ -7,6 +7,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 
@@ -33,12 +34,6 @@ namespace EasySave_2._0.ViewModels
         public ObservableCollection<string> EncryptionExtensions { get; } = new() { ".txt", ".docx", ".pdf", ".png", ".jpg" };
 
         public string SelectedExtensionToEncrypt { get; set; } = ".txt";
-
-        // Proxy pour binding WPF
-       
-
-        
-
 
         private readonly BackupManager _backupManager;
         private readonly Logger _logger;
@@ -115,6 +110,9 @@ namespace EasySave_2._0.ViewModels
         public ICommand SelectLangageCommand { get; }
         public ICommand QuitCommand { get; }
         public ICommand ValidSettings { get; }
+        public ICommand PlayJobCommand { get; }
+        public ICommand PauseJobCommand { get; }
+        public ICommand StopJobCommand { get; }
 
         public MainViewModel()
         {
@@ -144,6 +142,10 @@ namespace EasySave_2._0.ViewModels
             SelectLangageCommand = new RelayCommand(() => ChangeLanguage());
             QuitCommand = new RelayCommand(() => QuitApplication());
             ValidSettings = new RelayCommand(() => SaveSettings());
+            PlayJobCommand = new RelayCommand<BackupJob>(job => _backupManager.PlayJob(job));
+            PauseJobCommand = new RelayCommand<BackupJob>(job => _backupManager.PauseJob(job));
+            StopJobCommand = new RelayCommand<BackupJob>(job => _backupManager.StopJob(job));
+
         }
 
         private void SetMode(bool create = false, bool list = false, bool execute = false, bool delete = false,
@@ -248,7 +250,7 @@ namespace EasySave_2._0.ViewModels
             MessageBox.Show(_languageService.GetTranslation("JobDeleted"));
         }
 
-        private void ExecuteSelectedJobs()
+        private async void ExecuteSelectedJobs()
         {
             var selectedJobs = BackupJobs.Where(j => j.IsSelected).ToList();
 
@@ -269,14 +271,21 @@ namespace EasySave_2._0.ViewModels
 
             foreach (var job in selectedJobs)
             {
-                try
+                var localJob = job; // Pour closure
+                _ = Task.Run(() =>
                 {
-                    job.Execute();
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(_languageService.GetTranslation("UnexpectedError") + ex.Message);
-                }
+                    try
+                    {
+                        localJob.Etat = "En cours";
+                        OnPropertyChanged(nameof(BackupJobs)); // Pour mise à jour UI
+                        localJob.Execute(); // Ton execute lit PauseEvent et Token
+                        localJob.Etat = "Terminé";
+                    }
+                    catch
+                    {
+                        localJob.Etat = "Erreur";
+                    }
+                });
             }
         }
 
@@ -299,25 +308,22 @@ namespace EasySave_2._0.ViewModels
 
         private void ListBackupJobs()
         {
+            BackupJobs.Clear();
             var jobs = _backupManager.GetAllJobs();
             if (jobs.Count > 0)
             {
-                var sb = new StringBuilder();
                 foreach (var job in jobs)
                 {
                     var state = _stateService.GetBackupStateByName(job.Name);
-                    var stateText = state != null ? state.State : _languageService.GetTranslation("StateUnknown");
-                    sb.AppendLine($"ID: {job.Id}, Nom: {job.Name}, Source: {job.Source}, Cible: {job.Target}, Type: {job.Type}, Etat: {stateText}");
+                    job.Etat = state != null ? state.State : _languageService.GetTranslation("StateUnknown");
+                    BackupJobs.Add(job);
                 }
-
-                BackupJobsList = sb.ToString();
             }
             else
             {
-                BackupJobsList = _languageService.GetTranslation("NoBackupJobsFound");
+                BackupJobs.Clear();
+                BackupJobs.Add(new BackupJob { Name = _languageService.GetTranslation("NoBackupJobsFound"), Etat = ""});
             }
-
-            OnPropertyChanged(nameof(BackupJobsList));
         }
 
         private void SaveSettings()

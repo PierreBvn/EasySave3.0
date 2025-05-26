@@ -1,10 +1,11 @@
 using EasySave_2._0.Models;
+using EasySave_2._0.ViewModels;
 using System;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.IO;
+using System.Threading;
 using System.Windows;
-using EasySave_2._0.ViewModels;
 
 public class BackupJob : INotifyPropertyChanged
 {
@@ -20,6 +21,24 @@ public class BackupJob : INotifyPropertyChanged
     public string Target { get; set; }
     public IBackupType Type { get; set; }
     public int Count { get; internal set; }
+
+    public CancellationTokenSource CancellationTokenSource { get; set; } = new();
+    public ManualResetEventSlim PauseEvent { get; set; } = new(true);
+    public int Progress { get; set; }
+    //public string Etat { get; set; } = "En attente";
+    public bool IsRunning => Etat == "ACTIVE" || Etat == "En pause" || Etat == "En cours";
+
+    private string _etat;
+    public string Etat
+    {
+        get => _etat;
+        set
+        {
+            _etat = value;
+            OnPropertyChanged(nameof(Etat));
+            OnPropertyChanged(nameof(IsRunning)); // Important si IsRunning dépend de Etat
+        }
+    }
 
     private bool _isSelected;
     public bool IsSelected
@@ -50,6 +69,9 @@ public class BackupJob : INotifyPropertyChanged
             Directory.CreateDirectory(Target);
             MessageBox.Show(_languageService.GetTranslation("TargetDirectoryCreated"), Target);
         }
+
+        BaseViewModel.PauseEvent = PauseEvent;
+        BaseViewModel.CancellationToken = CancellationTokenSource.Token;
 
         Type.Transfer(Id, Name, Source, Target);
     }

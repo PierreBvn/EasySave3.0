@@ -1,11 +1,12 @@
+using CryptoSoft;
+using EasySave_2._0.Models;
+using EasySave_2._0.ViewModels;
 using System;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using System.Threading;
 using System.Windows;
-using CryptoSoft;
-using EasySave_2._0.Models;
-using EasySave_2._0.ViewModels;
 
 public class FullBackup : IBackupType
 {
@@ -20,19 +21,10 @@ public class FullBackup : IBackupType
 
     public void Transfer(int id, string name, string source, string target)
     {
+        
         MessageBox.Show(_languageService.GetTranslation("BackupJobExecutedSuccess"));
 
         string[] files = Directory.GetFiles(source, "*.*", SearchOption.AllDirectories);
-
-        //bool fileExcludedFound = files.Any(file =>
-        //    Path.GetFileName(file).Equals(  BaseViewModel.FileToExclude, StringComparison.OrdinalIgnoreCase));
-
-        //if (fileExcludedFound)
-        //{
-        //    MessageBox.Show($"La sauvegarde complète a été annulée : le fichier à exclure \"{BaseViewModel.FileToExclude}\" a été trouvé dans le dossier source.",
-        //                    "Sauvegarde annulée", MessageBoxButton.OK, MessageBoxImage.Warning);
-        //    return;
-        //}
 
         int totalFiles = files.Length;
         int nbFilesLeft = totalFiles;
@@ -42,6 +34,14 @@ public class FullBackup : IBackupType
 
         foreach (string file in files)
         {
+            BaseViewModel.PauseEvent.Wait();
+
+            if (BaseViewModel.CancellationToken.IsCancellationRequested)
+            {
+                stateService.Cancel(id);
+                return;
+            }
+
             string destFile = Path.Combine(target, Path.GetFileName(file));
             Directory.CreateDirectory(Path.GetDirectoryName(destFile)!);
 
@@ -59,10 +59,15 @@ public class FullBackup : IBackupType
 
             nbFilesLeft--;
             int progression = totalFiles > 0 ? (100 * (totalFiles - nbFilesLeft) / totalFiles) : 100;
+
             stateService.Update(id, nbFilesLeft);
+            Thread.Sleep(2000);
         }
 
-        stateService.Finish(id);
+        if (!BaseViewModel.CancellationToken.IsCancellationRequested)
+        {
+            stateService.Finish(id);
+        }
     }
 }
 
@@ -92,10 +97,13 @@ public class DifferentialBackup : IBackupType
 
         foreach (string file in files)
         {
-            //if (Path.GetFileName(file).Equals(BaseViewModel.FileToExclude, StringComparison.OrdinalIgnoreCase))
-            //{
-            //    continue;
-            //}
+            BaseViewModel.PauseEvent.Wait();
+
+            if (BaseViewModel.CancellationToken.IsCancellationRequested)
+            {
+                stateService.Cancel(id);
+                return;
+            }
 
             string destFile = Path.Combine(target, Path.GetFileName(file));
 
@@ -119,8 +127,13 @@ public class DifferentialBackup : IBackupType
             nbFilesLeft--;
             int progression = totalFiles > 0 ? (100 * (totalFiles - nbFilesLeft) / totalFiles) : 100;
             stateService.Update(id, nbFilesLeft);
+
+            Thread.Sleep(2000);
         }
 
-        stateService.Finish(id);
+        if (!BaseViewModel.CancellationToken.IsCancellationRequested)
+        {
+            stateService.Finish(id);
+        }
     }
 }

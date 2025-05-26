@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Threading;
 
 namespace EasySave_2._0.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        //  Propriété statique pour l'exclusion de fichier (partagée globalement)
+        public static ManualResetEventSlim PauseEvent { get; set; }
+        public static CancellationToken CancellationToken { get; set; }
         public static string ProcessDetector { get; set; } = string.Empty;
 
         private string _processDetectorSaved;

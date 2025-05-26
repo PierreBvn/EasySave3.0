@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\states\\backupstate.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\states\\backupstate.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +27,32 @@
       "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\backpjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\backpjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\logs\\log_2025-05-26.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\logs\\log_2025-05-26.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\ibackuptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\ibackuptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|c:\\users\\boivi\\source\\repos\\easysave 3.0.0\\easysave 2.0\\easysave 2.0\\models\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B593777-B9B0-4357-8A1B-118078DE3425}|EasySave 2.0\\EasySave 2.0.csproj|solutionrelative:easysave 2.0\\models\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,22 +62,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackupState.json",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\States\\BackupState.json",
+              "RelativeDocumentMoniker": "EasySave 2.0\\States\\BackupState.json",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\States\\BackupState.json",
+              "RelativeToolTip": "EasySave 2.0\\States\\BackupState.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T14:42:21.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "EasySave 2.0\\Models\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\RelayCommand.cs",
+              "RelativeToolTip": "EasySave 2.0\\Models\\RelayCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:36:04.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BackupManager.cs",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\BackupManager.cs",
+              "RelativeDocumentMoniker": "EasySave 2.0\\Models\\BackupManager.cs",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\BackupManager.cs",
+              "RelativeToolTip": "EasySave 2.0\\Models\\BackupManager.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:23:33.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateService.cs",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\StateService.cs",
+              "RelativeDocumentMoniker": "EasySave 2.0\\Models\\StateService.cs",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\StateService.cs",
+              "RelativeToolTip": "EasySave 2.0\\Models\\StateService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAqwIUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:00:38.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBackupType.cs",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\IBackupType.cs",
+              "RelativeDocumentMoniker": "EasySave 2.0\\Models\\IBackupType.cs",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\IBackupType.cs",
+              "RelativeToolTip": "EasySave 2.0\\Models\\IBackupType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:52:29.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BackpJob.cs",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\BackpJob.cs",
+              "RelativeDocumentMoniker": "EasySave 2.0\\Models\\BackpJob.cs",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\BackpJob.cs",
+              "RelativeToolTip": "EasySave 2.0\\Models\\BackpJob.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:51:35.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "EasySave 2.0\\Models\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\AssemblyInfo.cs",
+              "RelativeToolTip": "EasySave 2.0\\Models\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:51:30.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "EasySave 2.0\\Views\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Views\\MainWindow.xaml",
               "RelativeToolTip": "EasySave 2.0\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-23T13:43:02.013Z"
+              "WhenOpened": "2025-05-23T13:43:02.013Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\ViewModels\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "EasySave 2.0\\ViewModels\\BaseViewModel.cs",
@@ -53,11 +177,51 @@
               "RelativeToolTip": "EasySave 2.0\\ViewModels\\BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:40:21.597Z"
+              "WhenOpened": "2025-05-23T13:40:21.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Backup.cs",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\Backup.cs",
+              "RelativeDocumentMoniker": "EasySave 2.0\\Models\\Backup.cs",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\Backup.cs",
+              "RelativeToolTip": "EasySave 2.0\\Models\\Backup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:37:02.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave 2.0\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "EasySave 2.0\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAUwBABAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:27:25.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Log_2025-05-26.json",
+              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Logs\\Log_2025-05-26.json",
+              "RelativeDocumentMoniker": "EasySave 2.0\\Logs\\Log_2025-05-26.json",
+              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Logs\\Log_2025-05-26.json",
+              "RelativeToolTip": "EasySave 2.0\\Logs\\Log_2025-05-26.json",
+              "ViewState": "AgIAAGUFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T14:18:23.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "LanguageService.cs",
               "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\LanguageService.cs",
               "RelativeDocumentMoniker": "EasySave 2.0\\Models\\LanguageService.cs",
@@ -66,31 +230,6 @@
               "ViewState": "AgIAAFsAAAAAAAAAAAAQwHYAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T13:38:49.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Backup.cs",
-              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\Backup.cs",
-              "RelativeDocumentMoniker": "EasySave 2.0\\Models\\Backup.cs",
-              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Models\\Backup.cs",
-              "RelativeToolTip": "EasySave 2.0\\Models\\Backup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:37:02.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "EasySave 2.0\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "EasySave 2.0\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAswHYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:27:25.814Z",
-              "EditorCaption": ""
             }
           ]
         }

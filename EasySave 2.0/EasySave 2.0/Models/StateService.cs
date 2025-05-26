@@ -125,6 +125,15 @@ namespace EasySave_2._0.Models
             string json = JsonSerializer.Serialize(backupStates.Values, new JsonSerializerOptions { WriteIndented = true });
             File.WriteAllText(jsonPath, json);
         }
+        public void Cancel(int jobId)
+        {
+            if (jobStates.ContainsKey(jobId))
+            {
+                jobStates[jobId].State = "Cancel";
+
+                SaveStateToJson();
+            }
+        }
     }
 }
 

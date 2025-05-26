@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "Name": "ttset4",
+    "SourceFilePath": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "TargetFilePath": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible2\\",
+    "State": "ACTIVE",
+    "TotalFilesToCopy": 7,
+    "TotalFilesSize": 122550,
+    "NbFilesLeftToDo": 2,
+    "Progression": 71
+  }
+]

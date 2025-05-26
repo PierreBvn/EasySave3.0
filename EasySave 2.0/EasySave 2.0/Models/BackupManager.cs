@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Windows;
 using System.Xml.Linq;
 
 namespace EasySave_2._0.Models
@@ -66,6 +67,31 @@ namespace EasySave_2._0.Models
 
             jobs.Remove(job);
             _logger.LogAction(job.Name, job.Source, job.Target, 0, 0, "Deletion");
+        }
+        public void PauseJob(BackupJob job)
+        {
+            if (job == null) return;
+            job.PauseEvent.Reset();  // Met en pause
+            job.Etat = "En pause";
+            MessageBox.Show("Travail en pause");
+        }
+
+        // Reprend un job
+        public void PlayJob(BackupJob job)
+        {
+            if (job == null) return;
+            job.PauseEvent.Set(); // Reprend
+            job.Etat = "En cours";
+            MessageBox.Show("Travail repris");
+        }
+
+        // Stop un job
+        public void StopJob(BackupJob job)
+        {
+            if (job == null) return;
+            job.CancellationTokenSource.Cancel(); // Annule l'exécution
+            job.Etat = "Arrêté";
+            MessageBox.Show("Travail arreté");
         }
     }
 }
