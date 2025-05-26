@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-18T17:43:56Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-18T17:44:10Z",
+    "backup_name": "hello",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Modification"
+  },
+  {
+    "timestamp": "2025-05-18T17:44:26Z",
+    "backup_name": "hello",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 240,
+    "transfer_time_ms": 11,
+    "action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-18T20:28:32Z",
+    "backup_name": "yeye",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-18T20:29:39Z",
+    "backup_name": "yeye",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 240,
+    "transfer_time_ms": 12,
+    "action": "Execution"
+  }
+]

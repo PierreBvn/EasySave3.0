@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>EasySave_2._0</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\en.jpg" />
+    <None Remove="Images\fr.jpg" />
+    <None Remove="Images\save3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="{215d64d2-031c-33c7-96e3-61794cd1ee61}">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>4</VersionMinor>
+      <VersionMajor>2</VersionMajor>
+      <Guid>215d64d2-031c-33c7-96e3-61794cd1ee61</Guid>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Cible\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CryptoSoft">
+      <HintPath>..\..\CryptoSoft\bin\Debug\net7.0\CryptoSoft.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\en.jpg" />
+    <Resource Include="Images\fr.jpg" />
+    <Resource Include="Images\save3.png" />
+  </ItemGroup>
+
+</Project>

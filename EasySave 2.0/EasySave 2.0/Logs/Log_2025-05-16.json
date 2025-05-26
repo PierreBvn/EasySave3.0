@@ -1,0 +1,81 @@
+[
+  {
+    "timestamp": "2025-05-15T23:53:50Z",
+    "backup_name": "a",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 56,
+    "transfer_time_ms": 3
+  },
+  {
+    "timestamp": "2025-05-16T00:03:22Z",
+    "backup_name": "Testouille",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 56,
+    "transfer_time_ms": 4
+  },
+  {
+    "timestamp": "2025-05-16T00:16:26Z",
+    "backup_name": "tst",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Create"
+  },
+  {
+    "timestamp": "2025-05-16T00:16:33Z",
+    "backup_name": "tst",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 56,
+    "transfer_time_ms": 4,
+    "action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-16T00:19:04Z",
+    "backup_name": "Exemple",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-16T00:19:09Z",
+    "backup_name": "a",
+    "source_file": "a",
+    "target_file": "a",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-16T00:19:16Z",
+    "backup_name": "Exemple2",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Modification"
+  },
+  {
+    "timestamp": "2025-05-16T00:19:23Z",
+    "backup_name": "Exemple2",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 56,
+    "transfer_time_ms": 4,
+    "action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-16T00:19:28Z",
+    "backup_name": "a",
+    "source_file": "a",
+    "target_file": "a",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Deletion"
+  }
+]

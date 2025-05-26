@@ -1,0 +1,983 @@
+[
+  {
+    "timestamp": "2025-05-22T08:34:05Z",
+    "backup_name": "brfuoeb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source222\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T08:34:51Z",
+    "backup_name": "brfuoeb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source222\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:34:51Z",
+    "backup_name": "brfuoeb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source222\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:34:51Z",
+    "backup_name": "brfuoeb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source222\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 5,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:34:51Z",
+    "backup_name": "brfuoeb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source222\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:34:51Z",
+    "backup_name": "brfuoeb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source222\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:34:51Z",
+    "backup_name": "brfuoeb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source222\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:34:51Z",
+    "backup_name": "brfuoeb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source222\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:35:56Z",
+    "backup_name": "rrrr",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source2\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T08:46:27Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T08:47:09Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:47:09Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:47:09Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:47:09Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 9,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:47:09Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:47:09Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 1,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:47:09Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 7,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:19Z",
+    "backup_name": "stst",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source88\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:51Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:51Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:51Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 1,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:51Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:51Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:51Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:51Z",
+    "backup_name": "bru",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:53Z",
+    "backup_name": "stst",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source88\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:53Z",
+    "backup_name": "stst",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source88\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:53Z",
+    "backup_name": "stst",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source88\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:53Z",
+    "backup_name": "stst",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source88\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:53Z",
+    "backup_name": "stst",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source88\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:48:53Z",
+    "backup_name": "stst",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source88\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:50:55Z",
+    "backup_name": "iuev",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source2\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T08:51:31Z",
+    "backup_name": "iuev",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source2\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:51:31Z",
+    "backup_name": "iuev",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source2\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:51:31Z",
+    "backup_name": "iuev",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source2\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:51:31Z",
+    "backup_name": "iuev",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source2\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:51:31Z",
+    "backup_name": "iuev",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source2\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:51:31Z",
+    "backup_name": "iuev",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source2\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T08:51:31Z",
+    "backup_name": "iuev",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source2\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:12:50Z",
+    "backup_name": "ertyv",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source22\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T09:15:15Z",
+    "backup_name": "oij",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source4\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T09:15:50Z",
+    "backup_name": "oij",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source4\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:15:50Z",
+    "backup_name": "oij",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source4\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:15:50Z",
+    "backup_name": "oij",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source4\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:15:50Z",
+    "backup_name": "oij",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source4\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:15:50Z",
+    "backup_name": "oij",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source4\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:15:51Z",
+    "backup_name": "oij",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source4\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:15:51Z",
+    "backup_name": "oij",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source4\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:32:05Z",
+    "backup_name": "yrfvzey",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source99\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T09:32:49Z",
+    "backup_name": "irugt",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source77\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:01Z",
+    "backup_name": "yrfvzey",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source99\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:01Z",
+    "backup_name": "yrfvzey",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source99\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:01Z",
+    "backup_name": "yrfvzey",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source99\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:01Z",
+    "backup_name": "yrfvzey",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source99\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:01Z",
+    "backup_name": "yrfvzey",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source99\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:01Z",
+    "backup_name": "yrfvzey",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source99\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:01Z",
+    "backup_name": "yrfvzey",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source99\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:03Z",
+    "backup_name": "irugt",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source77\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:03Z",
+    "backup_name": "irugt",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source77\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:03Z",
+    "backup_name": "irugt",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source77\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:03Z",
+    "backup_name": "irugt",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source77\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:03Z",
+    "backup_name": "irugt",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source77\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:34:03Z",
+    "backup_name": "irugt",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source77\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:36:43Z",
+    "backup_name": "\u003Cudcsyf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source55\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T09:37:06Z",
+    "backup_name": "\u003Cudcsyf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source55\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 1,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:37:07Z",
+    "backup_name": "\u003Cudcsyf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source55\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:37:07Z",
+    "backup_name": "\u003Cudcsyf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source55\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 1,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:37:07Z",
+    "backup_name": "\u003Cudcsyf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source55\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:37:07Z",
+    "backup_name": "\u003Cudcsyf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source55\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:37:07Z",
+    "backup_name": "\u003Cudcsyf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source55\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:37:07Z",
+    "backup_name": "\u003Cudcsyf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source55\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:41:38Z",
+    "backup_name": "svug",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source3\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T09:42:15Z",
+    "backup_name": "svug",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source3\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 1,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:42:15Z",
+    "backup_name": "svug",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source3\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:42:15Z",
+    "backup_name": "svug",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source3\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 1,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:42:15Z",
+    "backup_name": "svug",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source3\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:42:15Z",
+    "backup_name": "svug",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source3\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:42:15Z",
+    "backup_name": "svug",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source3\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T09:42:15Z",
+    "backup_name": "svug",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source3\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T10:19:29Z",
+    "backup_name": "erfubg",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Cible2\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T10:20:05Z",
+    "backup_name": "erfubg",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Cible2\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T10:20:05Z",
+    "backup_name": "erfubg",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Cible2\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T10:20:05Z",
+    "backup_name": "erfubg",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Cible2\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T10:20:05Z",
+    "backup_name": "erfubg",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Cible2\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T10:20:05Z",
+    "backup_name": "erfubg",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Cible2\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T10:20:05Z",
+    "backup_name": "erfubg",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Cible2\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T10:20:05Z",
+    "backup_name": "erfubg",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Cible2\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T11:32:03Z",
+    "backup_name": "irbf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source11\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T11:43:53Z",
+    "backup_name": "eroigh",
+    "source_file": "ichbpz",
+    "target_file": "irh",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T11:49:23Z",
+    "backup_name": "erfvubzeilu",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source26\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T11:51:28Z",
+    "backup_name": "inchaalah",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source26\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T11:51:28Z",
+    "backup_name": "inchaalah",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source26\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 1,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T11:51:28Z",
+    "backup_name": "inchaalah",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source26\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T11:51:28Z",
+    "backup_name": "inchaalah",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source26\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T11:51:28Z",
+    "backup_name": "inchaalah",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source26\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T11:51:28Z",
+    "backup_name": "inchaalah",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source26\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T11:51:28Z",
+    "backup_name": "inchaalah",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source26\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T12:21:40Z",
+    "backup_name": "uuuuu",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\oo69\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T12:22:29Z",
+    "backup_name": "uuuuu",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\oo69\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T12:22:29Z",
+    "backup_name": "uuuuu",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\oo69\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T12:22:29Z",
+    "backup_name": "uuuuu",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\oo69\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T12:22:29Z",
+    "backup_name": "uuuuu",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\oo69\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T12:22:29Z",
+    "backup_name": "uuuuu",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\oo69\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T12:22:29Z",
+    "backup_name": "uuuuu",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\oo69\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T12:22:29Z",
+    "backup_name": "uuuuu",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\oo69\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-22T12:27:04Z",
+    "backup_name": "qeruvf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source000000\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T12:49:07Z",
+    "backup_name": "OSIRG",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\penaldo\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T12:49:28Z",
+    "backup_name": "eruoivf",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\pessi\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-22T12:50:14Z",
+    "backup_name": "yes yes yes",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.3\\EasySave 2.0\\EasySave 2.0\\pessi\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Deletion"
+  }
+]

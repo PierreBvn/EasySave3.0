@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-05-17T20:32:54Z",
+    "backup_name": "salut",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-17T20:33:25Z",
+    "backup_name": "wesh",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-17T20:35:32Z",
+    "backup_name": "naha",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-17T20:35:57Z",
+    "backup_name": "lmesb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Modification"
+  },
+  {
+    "timestamp": "2025-05-17T20:36:06Z",
+    "backup_name": "lmesb",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "action": "Deletion"
+  },
+  {
+    "timestamp": "2025-05-17T20:36:30Z",
+    "backup_name": "salut",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 56,
+    "transfer_time_ms": 10,
+    "action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-17T20:36:31Z",
+    "backup_name": "naha",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "file_size": 240,
+    "transfer_time_ms": 11,
+    "action": "Execution"
+  }
+]

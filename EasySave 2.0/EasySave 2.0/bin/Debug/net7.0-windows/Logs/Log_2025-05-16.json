@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-05-15T23:52:51Z",
+    "backup_name": "Sauvegarde",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 56,
+    "transfer_time_ms": 5
+  }
+]

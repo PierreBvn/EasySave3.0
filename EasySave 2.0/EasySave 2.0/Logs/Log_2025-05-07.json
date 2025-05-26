@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2025-05-07T14:01:32Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave_V1.3\\EasySave_V1\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave_V1.3\\EasySave_V1\\test\\",
+    "file_size": 56,
+    "transfer_time_ms": 1,
+    "status": "success"
+  }
+]

@@ -1,0 +1,195 @@
+﻿<Window x:Class="EasySave_2._0.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasySave_2._0.ViewModels" d:DataContext="{d:DesignInstance Type=local:MainViewModel}"
+        mc:Ignorable="d"
+        Title="EasySave" Height="500" Width="900"
+        Background="LightGray" FontFamily="Segoe UI" FontSize="14" Cursor="">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVis" />
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="0,5"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="0,5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="BorderBrush" Value="#ccc"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+        <Style TargetType="ComboBox">
+            <Setter Property="Margin" Value="0,5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="BorderBrush" Value="#ccc"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="240"/>
+            <!-- Menu fixe à gauche -->
+            <ColumnDefinition Width="*"/>
+            <!-- Contenu à droite -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Menu à gauche -->
+        <Border Padding="10" Background="#005FF0">
+            <StackPanel Grid.Column="0" VerticalAlignment="Top">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Image Source="pack://application:,,,/Images\save3.png" Width="20" Height="20" Margin="0,0,5,5"/>
+                    <TextBlock Text="EasySave 2.0" FontSize="26" FontWeight="Bold" Margin="0,0,0,10" TextAlignment="Center"/>
+                </StackPanel>
+                <Button Content="{Binding TextCreateBackup}" Command="{Binding ShowCreateBackupCommand}" Margin="0,5"/>
+                <Button Content="{Binding TextModifyBackup}" Command="{Binding ShowEditBackupCommand}" Margin="0,5"/>
+                <Button Content="{Binding TextDeleteBackup}" Command="{Binding ShowDeleteBackupCommand}" Margin="0,5"/>
+                <Button Content="{Binding TextListBackups}" Command="{Binding ShowListBackupJobsCommand}" Margin="0,5"/>
+                <Button Content="{Binding TextExecuteBackup}" Command="{Binding ShowExecuteBackupCommand}" Margin="0,5"/>
+                <Button Content="{Binding TextLanguageChoice}" Command="{Binding ShowSelectLangageCommand}" Margin="0,5"/>
+                <Button Content="{Binding TextSettings}" Command="{Binding ShowSettingsCommand}" Margin="0,5"/>
+
+                <Button Content="{Binding TextQuit}" Command="{Binding QuitCommand}" Margin="0,5"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Contenu à droite -->
+
+        <StackPanel Grid.Column="1" Background="LightGray">
+            <StackPanel x:Name="CreateBackupPanel" Visibility="{Binding IsInCreateMode, Converter={StaticResource BoolToVis}}" Margin="10,10,10,10">
+                <TextBlock Text="{Binding TextTitleCreateBackup}" FontWeight="semiBold" Margin="0,0,0,10" FontSize="18" TextAlignment="Center"/>
+                <TextBlock Text="{Binding TextEnterBackupJobName}"/>
+                <TextBox Text="{Binding BackupName, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBlock Text="{Binding TextEnterSourceDirectory}"/>
+                <TextBox Text="{Binding SourcePath, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBlock Text="{Binding TextEnterTargetDirectory}"/>
+                <TextBox Text="{Binding TargetPath, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBlock Text="{Binding TextEnterBackupType}"/>
+                <ComboBox ItemsSource="{Binding BackupTypeOptions}" SelectedIndex="{Binding BackupTypeChoice}"/>
+                <Button Content="{Binding ButtonCreateBackup}" Command="{Binding CreateBackupCommand}" Margin="0,5" Background="#005FF0" Foreground="White"/>
+            </StackPanel>
+
+            <StackPanel x:Name="ListBackupPanel" Visibility="{Binding IsInListMode, Converter={StaticResource BoolToVis}}" Margin="10,10,10,10">
+                <TextBlock Text="{Binding TextTitleListBackup}" FontWeight="semiBold" Margin="0,0,0,10" FontSize="18" TextAlignment="Center"/>
+                <TextBox Text="{Binding BackupJobsList}" IsReadOnly="True" Height="150" VerticalScrollBarVisibility="Auto" />
+            </StackPanel>
+
+            <StackPanel x:Name="DeleteBackupPanel" Visibility="{Binding IsInDeleteMode, Converter={StaticResource BoolToVis}}" Margin="10,10,10,10">
+                <TextBlock Text="{Binding TextTitleDeleteBackup}" FontWeight="semiBold" Margin="0,0,0,10" FontSize="18" TextAlignment="Center"/>
+                <ListBox ItemsSource="{Binding BackupJobs}" Height="200">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <CheckBox IsChecked="{Binding IsSelected}" Margin="5"/>
+                                <TextBlock Text="{Binding Name}" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <Button Content="{Binding ButtonDeleteBackup}"
+                        Command="{Binding DeleteSelectedJobsCommand}"
+                        Margin="0,10"
+                        Background="#005FF0" Foreground="White"/>
+            </StackPanel>
+
+            <StackPanel x:Name="ExecuteBackupPanel" Visibility="{Binding IsInExecuteMode, Converter={StaticResource BoolToVis}}" Margin="10,10,10,10">
+                <TextBlock Text="{Binding TextTitleExecuteBackup}" FontWeight="semiBold" Margin="0,0,0,10" FontSize="18" TextAlignment="Center"/>
+                <ListBox ItemsSource="{Binding BackupJobs}" Height="200">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <CheckBox IsChecked="{Binding IsSelected}" Margin="5"/>
+                                <TextBlock Text="{Binding Name}" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <Button Content="{Binding ButtonExecuteBackup}"
+                        Command="{Binding ExecuteSelectedJobsCommand}"
+                        Margin="0,10"
+                        Background="#005FF0" Foreground="White"/>
+            </StackPanel>
+
+            <StackPanel x:Name="SelectEditBackupPanel" Visibility="{Binding IsInEditMode, Converter={StaticResource BoolToVis}}" Margin="10,10,10,10">
+                <TextBlock Text="{Binding TextTitleSelectEditBackup}" FontWeight="semiBold" Margin="0,0,0,10" FontSize="18" TextAlignment="Center"/>
+                <ListBox ItemsSource="{Binding BackupJobs}" SelectedItem="{Binding SelectedJob}" DisplayMemberPath="Name" Height="150"/>
+                <Button Content="{Binding ButtonEditSelectBackup}" Command="{Binding EditSelectedJobCommand}" Margin="0,10" Background="#005FF0" Foreground="White"/>
+            </StackPanel>
+
+            <StackPanel x:Name="EditBackupJobPanel" Visibility="{Binding IsInEditJobMode, Converter={StaticResource BoolToVis}}" Margin="10,10,10,10">
+                <TextBlock Text="{Binding TextTitleEditBackup}" FontWeight="semiBold" Margin="0,0,0,10" FontSize="18" TextAlignment="Center"/>
+                <TextBlock Text="{Binding TextEnterBackupJobName}"/>
+                <TextBox Text="{Binding BackupName, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBlock Text="{Binding TextEnterSourceDirectory}"/>
+                <TextBox Text="{Binding SourcePath, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBlock Text="{Binding TextEnterTargetDirectory}"/>
+                <TextBox Text="{Binding TargetPath, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBlock Text="{Binding TextEnterBackupType}"/>
+                <ComboBox ItemsSource="{Binding BackupTypeOptions}" SelectedIndex="{Binding BackupTypeChoice}"/>
+                <Button Content="{Binding ButtonEditBackup}" Command="{Binding EditBackupJobCommand}" Margin="0,5" Background="#005FF0" Foreground="White"/>
+            </StackPanel>
+
+            <StackPanel x:Name="SelectLangage" Visibility="{Binding IsInLangageMode, Converter={StaticResource BoolToVis}}" Margin="10,10,10,10">
+                <TextBlock Text="{Binding TextTitleChoiceLanguage}" FontWeight="semiBold" Margin="0,0,0,10" FontSize="18" TextAlignment="Center"/>
+                <ComboBox SelectedIndex="{Binding SelectedLanguageIndex}">
+                    <ComboBoxItem>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="pack://application:,,,/Images\fr.jpg" Width="20" Height="20" Margin="0,0,5,0"/>
+                            <TextBlock Text="Français"/>
+                        </StackPanel>
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="pack://application:,,,/Images\en.jpg" Width="20" Height="20" Margin="0,0,5,0"/>
+                            <TextBlock Text="English"/>
+                        </StackPanel>
+                    </ComboBoxItem>
+                </ComboBox>
+                <Button Content="{Binding ButtonChangeLanguage}" Command="{Binding SelectLangageCommand}" Margin="0,5" Background="#005FF0" Foreground="White"/>
+            </StackPanel>
+
+
+
+
+
+            <StackPanel x:Name="Settings" Visibility="{Binding IsInSettingsMode, Converter={StaticResource BoolToVis}}" Margin="10,10,10,10">
+                <TextBlock Text="Paramètres" FontWeight="semiBold" Margin="0,0,0,10" FontSize="18" TextAlignment="Center"/>
+
+                <!-- Choix du format de fichier log -->
+                <TextBlock Text="Format du fichier de log :" Margin="0,10,0,0"/>
+                <ComboBox ItemsSource="{Binding LogFormats}" SelectedItem="{Binding SelectedLogFormat}" />
+
+                <!-- Choix des extensions à crypter -->
+                <TextBlock Text="Extensions de fichiers à crypter :" Margin="0,10,0,0"/>
+                <ListBox ItemsSource="{Binding AvailableExtensions}" SelectionMode="Multiple">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <CheckBox Content="{Binding FILEFormat}" IsChecked="{Binding IsSelected, Mode=TwoWay}" />
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <!-- Nom du fichier à exclure -->
+                <TextBlock Text="Nom du fichier à exclure :" Margin="0,10,0,0"/>
+                <TextBox Text="{Binding ProcessDetectorSaved}" />
+
+
+                <Button Content="{Binding ButtonSelectSettings}" Command="{Binding ValidSettings}" Margin="0,5" Background="#005FF0" Foreground="White"/>
+
+
+            </StackPanel>
+
+
+        </StackPanel>
+    </Grid>
+</Window>

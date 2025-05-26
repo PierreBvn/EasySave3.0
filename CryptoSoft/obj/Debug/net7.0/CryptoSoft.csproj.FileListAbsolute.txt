@@ -1,0 +1,22 @@
+C:\Users\hemri\source\repos\CryptoSoft\bin\Debug\net7.0\CryptoSoft.deps.json
+C:\Users\hemri\source\repos\CryptoSoft\bin\Debug\net7.0\CryptoSoft.dll
+C:\Users\hemri\source\repos\CryptoSoft\bin\Debug\net7.0\CryptoSoft.pdb
+C:\Users\hemri\source\repos\CryptoSoft\obj\Debug\net7.0\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemri\source\repos\CryptoSoft\obj\Debug\net7.0\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\hemri\source\repos\CryptoSoft\obj\Debug\net7.0\CryptoSoft.AssemblyInfo.cs
+C:\Users\hemri\source\repos\CryptoSoft\obj\Debug\net7.0\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\hemri\source\repos\CryptoSoft\obj\Debug\net7.0\CryptoSoft.dll
+C:\Users\hemri\source\repos\CryptoSoft\obj\Debug\net7.0\refint\CryptoSoft.dll
+C:\Users\hemri\source\repos\CryptoSoft\obj\Debug\net7.0\CryptoSoft.pdb
+C:\Users\hemri\source\repos\CryptoSoft\obj\Debug\net7.0\ref\CryptoSoft.dll
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\bin\Debug\net7.0\CryptoSoft.deps.json
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\bin\Debug\net7.0\CryptoSoft.dll
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\bin\Debug\net7.0\CryptoSoft.pdb
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\obj\Debug\net7.0\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\obj\Debug\net7.0\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\obj\Debug\net7.0\CryptoSoft.AssemblyInfo.cs
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\obj\Debug\net7.0\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\obj\Debug\net7.0\CryptoSoft.dll
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\obj\Debug\net7.0\refint\CryptoSoft.dll
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\obj\Debug\net7.0\CryptoSoft.pdb
+C:\Users\AMSA\Downloads\EasySave 2.1\CryptoSoft\obj\Debug\net7.0\ref\CryptoSoft.dll

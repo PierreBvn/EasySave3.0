@@ -1,0 +1,145 @@
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.cache
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.lref
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.exe
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.deps.json
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.runtimeconfig.json
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.g.resources
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfoInputs.cache
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfo.cs
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.CoreCompileInputs.cache
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\refint\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.genruntimeconfig.cache
+C:\Users\boivi\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\ref\EasySave 2.0.dll
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.exe
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.deps.json
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.runtimeconfig.json
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.dll
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.pdb
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.AssemblyReference.cache
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.ResolveComReference.cache
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.cache
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.lref
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.g.resources
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfoInputs.cache
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfo.cs
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.CoreCompileInputs.cache
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave.D74CF5FA.Up2Date
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\refint\EasySave 2.0.dll
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.genruntimeconfig.cache
+C:\Users\hemri\source\repos\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\ref\EasySave 2.0.dll
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.exe
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.deps.json
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.runtimeconfig.json
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.dll
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.pdb
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.AssemblyReference.cache
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.ResolveComReference.cache
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.cache
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.lref
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.g.resources
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfoInputs.cache
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfo.cs
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.CoreCompileInputs.cache
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave.D74CF5FA.Up2Date
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\refint\EasySave 2.0.dll
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.genruntimeconfig.cache
+C:\Users\AMSA\Downloads\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\ref\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.exe
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.deps.json
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.runtimeconfig.json
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.dll
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.pdb
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.AssemblyReference.cache
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.ResolveComReference.cache
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.cache
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.lref
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.g.resources
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfoInputs.cache
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfo.cs
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.CoreCompileInputs.cache
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave.D74CF5FA.Up2Date
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\refint\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.genruntimeconfig.cache
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\ref\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\Views\MainWindow.baml
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.exe
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.deps.json
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.runtimeconfig.json
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.dll
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.pdb
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.AssemblyReference.cache
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.ResolveComReference.cache
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.cache
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.lref
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\Views\MainWindow.baml
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.g.resources
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfoInputs.cache
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfo.cs
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.CoreCompileInputs.cache
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave.D74CF5FA.Up2Date
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\refint\EasySave 2.0.dll
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.genruntimeconfig.cache
+C:\Users\hemri\source\repos\EasySave 2.3\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\ref\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.AssemblyReference.cache
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.ResolveComReference.cache
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.cache
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0_MarkupCompile.lref
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\refint\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.exe
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.deps.json
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.runtimeconfig.json
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.dll
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\EasySave 2.0.pdb
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.dll
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\bin\Debug\net7.0-windows\CryptoSoft.pdb
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\Views\MainWindow.baml
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.g.resources
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfoInputs.cache
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.AssemblyInfo.cs
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.csproj.CoreCompileInputs.cache
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave.D74CF5FA.Up2Date
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\EasySave 2.0.genruntimeconfig.cache
+C:\Users\boivi\source\repos\EasySave 3.0.0\EasySave 2.0\EasySave 2.0\obj\Debug\net7.0-windows\ref\EasySave 2.0.dll

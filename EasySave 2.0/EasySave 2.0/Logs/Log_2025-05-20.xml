@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfLogEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LogEntry>
+    <timestamp>2025-05-20T17:39:55Z</timestamp>
+    <backup_name>b</backup_name>
+    <source_file>b</source_file>
+    <target_file>b</target_file>
+    <file_size>0</file_size>
+    <transfer_time_ms>0</transfer_time_ms>
+    <Action>Creation</Action>
+  </LogEntry>
+  <LogEntry>
+    <timestamp>2025-05-20T17:41:04Z</timestamp>
+    <backup_name>c</backup_name>
+    <source_file>c</source_file>
+    <target_file>c</target_file>
+    <file_size>0</file_size>
+    <transfer_time_ms>0</transfer_time_ms>
+    <Action>Creation</Action>
+  </LogEntry>
+  <LogEntry>
+    <timestamp>2025-05-20T17:41:19Z</timestamp>
+    <backup_name>e</backup_name>
+    <source_file>e</source_file>
+    <target_file>e</target_file>
+    <file_size>0</file_size>
+    <transfer_time_ms>0</transfer_time_ms>
+    <Action>Creation</Action>
+  </LogEntry>
+  <LogEntry>
+    <timestamp>2025-05-20T17:47:23Z</timestamp>
+    <backup_name>Test </backup_name>
+    <source_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Source\</source_file>
+    <target_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Cible\</target_file>
+    <file_size>0</file_size>
+    <transfer_time_ms>0</transfer_time_ms>
+    <Action>Creation</Action>
+  </LogEntry>
+  <LogEntry>
+    <timestamp>2025-05-20T17:47:28Z</timestamp>
+    <backup_name>Test </backup_name>
+    <source_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Source\5609073305ce9d64b92b3d2ace7002ab.jpg</source_file>
+    <target_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Cible\5609073305ce9d64b92b3d2ace7002ab.jpg</target_file>
+    <file_size>17774</file_size>
+    <transfer_time_ms>3</transfer_time_ms>
+    <Action>Execution</Action>
+  </LogEntry>
+  <LogEntry>
+    <timestamp>2025-05-20T17:47:28Z</timestamp>
+    <backup_name>Test </backup_name>
+    <source_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Source\Capture d'écran 2025-05-19 094546.png</source_file>
+    <target_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Cible\Capture d'écran 2025-05-19 094546.png</target_file>
+    <file_size>104528</file_size>
+    <transfer_time_ms>3</transfer_time_ms>
+    <Action>Execution</Action>
+  </LogEntry>
+  <LogEntry>
+    <timestamp>2025-05-20T17:47:28Z</timestamp>
+    <backup_name>Test </backup_name>
+    <source_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Source\FileName.txt</source_file>
+    <target_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Cible\FileName.txt</target_file>
+    <file_size>56</file_size>
+    <transfer_time_ms>1</transfer_time_ms>
+    <Action>Execution</Action>
+  </LogEntry>
+  <LogEntry>
+    <timestamp>2025-05-20T17:47:28Z</timestamp>
+    <backup_name>Test </backup_name>
+    <source_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Source\test.json</source_file>
+    <target_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Cible\test.json</target_file>
+    <file_size>8</file_size>
+    <transfer_time_ms>2</transfer_time_ms>
+    <Action>Execution</Action>
+  </LogEntry>
+  <LogEntry>
+    <timestamp>2025-05-20T17:47:28Z</timestamp>
+    <backup_name>Test </backup_name>
+    <source_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Source\Test1.txt</source_file>
+    <target_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Cible\Test1.txt</target_file>
+    <file_size>56</file_size>
+    <transfer_time_ms>0</transfer_time_ms>
+    <Action>Execution</Action>
+  </LogEntry>
+  <LogEntry>
+    <timestamp>2025-05-20T17:47:28Z</timestamp>
+    <backup_name>Test </backup_name>
+    <source_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Source\Test2.txt</source_file>
+    <target_file>C:\Users\boivi\source\repos\EasySave 2.2 Log\EasySave 2.1\EasySave 2.0\EasySave 2.0\Cible\Test2.txt</target_file>
+    <file_size>128</file_size>
+    <transfer_time_ms>0</transfer_time_ms>
+    <Action>Execution</Action>
+  </LogEntry>
+</ArrayOfLogEntry>

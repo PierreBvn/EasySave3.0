@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-05-08T21:10:05Z",
+    "backup_name": "yy",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave_V1.4\\EasySave_V1.4\\EasySave_V1.4\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave_V1.4\\EasySave_V1.4\\EasySave_V1.4\\Cible\\",
+    "file_size": 56,
+    "transfer_time_ms": 4,
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-05-08T21:10:29Z",
+    "backup_name": "yy",
+    "source_file": "C:\\Users\\hemri\\source\\repos\\EasySave_V1.4\\EasySave_V1.4\\EasySave_V1.4\\Source\\",
+    "target_file": "C:\\Users\\hemri\\source\\repos\\EasySave_V1.4\\EasySave_V1.4\\EasySave_V1.4\\Cible\\",
+    "file_size": 56,
+    "transfer_time_ms": 5,
+    "status": "success"
+  }
+]

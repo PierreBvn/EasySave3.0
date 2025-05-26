@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2025-05-23T13:25:44Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-23T13:25:50Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible\\5609073305ce9d64b92b3d2ace7002ab.jpg",
+    "file_size": 17774,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-23T13:25:50Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\calculette.exe",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible\\calculette.exe",
+    "file_size": 0,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-23T13:25:50Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible\\Capture d\u0027\u00E9cran 2025-05-19 094546.png",
+    "file_size": 104528,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-23T13:25:50Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\FileName.txt",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible\\FileName.txt",
+    "file_size": 56,
+    "transfer_time_ms": 3,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-23T13:25:50Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\test.json",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible\\test.json",
+    "file_size": 8,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-23T13:25:50Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\Test1.txt",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible\\Test1.txt",
+    "file_size": 56,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-23T13:25:50Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\Test2.txt",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible\\Test2.txt",
+    "file_size": 128,
+    "transfer_time_ms": 2,
+    "Action": "Execution"
+  },
+  {
+    "timestamp": "2025-05-23T13:44:41Z",
+    "backup_name": "test",
+    "source_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Source\\",
+    "target_file": "C:\\Users\\boivi\\source\\repos\\EasySave 3.0.0\\EasySave 2.0\\EasySave 2.0\\Cible\\",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  },
+  {
+    "timestamp": "2025-05-23T13:50:25Z",
+    "backup_name": "sdgmopvojn",
+    "source_file": "zfgdbvj",
+    "target_file": "fgvnj",
+    "file_size": 0,
+    "transfer_time_ms": 0,
+    "Action": "Creation"
+  }
+]
